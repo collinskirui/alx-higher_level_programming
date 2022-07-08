@@ -5,4 +5,3 @@ def square_matrix_simple(matrix=[]):
         matrixSquare = [square(elem) for elem in matrix]
         return matrixSquare
     return matrix
-
